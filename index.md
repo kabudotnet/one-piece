@@ -79,6 +79,8 @@
 <a ></a>
 	</div>
 	</div>
+		<p>Download Anime Batch Subtitle Indonesia, One Piece 001-925 Subtitle Indonesia Batch</p>
+<p>Buat Kamu yang nyari One Piece Batch SUB INDO remastered di episode-episode awal masuk sini.</p>
 	<!-- .DOWNLAOD -->	
 <h2 class="entry-title">
 Download One Piece Batch Subtitle Indonesia
