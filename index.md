@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 		<head>
 		<meta charset="utf-8">
@@ -72,13 +71,13 @@
 	<div class="naveps">
 	<div class="nvs">
 <a ></a>
-	</i></a></div>
+	</div>
 	<div class="nvs nvsc">
 <a href='https://anime.samehada.my.id/anime/one-piece'>All Episode</a>
 	</div>
 	<div class="nvs">
 <a ></a>
-	</i></a></div>
+	</div>
 	</div>
 	<!-- .DOWNLAOD -->	
 <h2 class="entry-title">
